@@ -1,3 +1,5 @@
+const discord == require("discord.js");
+
 import discord
 import os
 
